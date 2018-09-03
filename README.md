@@ -18,6 +18,7 @@ for more tutorials refer to [SFML Tutorials](https://www.sfml-dev.org/tutorials/
 AA Game is a simple accuracy game in which you must place several needles on the circle without touching any other bits. The speed of bits is increasing as you progress through the levels. 
 
 For shooting the bits you should press the up key in keyboard
+
 ![aa](http://i63.tinypic.com/mjvokg.png)
 
 
